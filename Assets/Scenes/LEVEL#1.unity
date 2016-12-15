@@ -160,6 +160,23 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &286725237 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1000013465449774, guid: 2904af332f0031d47b5f9595714d2dd1,
+    type: 2}
+  m_PrefabInternal: {fileID: 691520737}
+--- !u!64 &286725241
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 286725237}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_Mesh: {fileID: 4300002, guid: dc3d9b1a37bc28b46989b2ab4aa45aa5, type: 3}
 --- !u!1001 &691520737
 Prefab:
   m_ObjectHideFlags: 0
@@ -198,6 +215,10 @@ Prefab:
     - target: {fileID: 4000010765903014, guid: 2904af332f0031d47b5f9595714d2dd1, type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013465449774, guid: 2904af332f0031d47b5f9595714d2dd1, type: 2}
+      propertyPath: m_Name
+      value: Walls
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2904af332f0031d47b5f9595714d2dd1, type: 2}
