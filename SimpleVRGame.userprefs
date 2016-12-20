@@ -1,8 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\door.cs">
     <Files>
       <File FileName="Assets\Scripts\door.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RotateFan.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RotateFan.cs" Line="5" Column="20" />
+>>>>>>> 9c6abda287557269df956a6dd3ebed4e33bf047e
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
