@@ -417,8 +417,9 @@ MonoBehaviour:
   componentsToDisable:
   - {fileID: 114000010638456628}
   - {fileID: 114000010854775328}
-  - {fileID: 0}
+  - {fileID: 20000010683727800}
   - {fileID: 81000011057739996}
+  - {fileID: 0}
 --- !u!114 &114000010638456628
 MonoBehaviour:
   m_ObjectHideFlags: 1
