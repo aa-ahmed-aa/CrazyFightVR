@@ -602,8 +602,8 @@ GameObject:
   - 95: {fileID: 95000011530036338}
   - 114: {fileID: 114000010455967040}
   - 114: {fileID: 114000010031408566}
-  - 114: {fileID: 114000012128460960}
   - 114: {fileID: 114000010350328594}
+  - 114: {fileID: 114000011600566894}
   m_Layer: 0
   m_Name: noop
   m_TagString: Untagged
@@ -3022,6 +3022,24 @@ MonoBehaviour:
   maximumX: 360
   minimumY: -60
   maximumY: 60
+--- !u!114 &114000011600566894
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011524540222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da1eb9ddbc9c1ce4c8ac16a504777b71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  componentsToDisable:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!114 &114000011779644652
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3037,22 +3055,6 @@ MonoBehaviour:
   toggleCullingMask:
     serializedVersion: 2
     m_Bits: 0
---- !u!114 &114000012128460960
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1000011524540222}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ded60435c878164181b8bae1ddb6049, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  componentsToDisable:
-  - {fileID: 114000011197531376}
-  - {fileID: 114000010455967040}
-  - {fileID: 20000011534750344}
-  - {fileID: 81000013038575884}
 --- !u!114 &114000012436549746
 MonoBehaviour:
   m_ObjectHideFlags: 1
