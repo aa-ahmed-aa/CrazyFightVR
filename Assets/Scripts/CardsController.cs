@@ -12,7 +12,7 @@ public class CardsController : MonoBehaviour {
     // Use this for initialization
     void Start () {
         ani.enabled = false;
-	}
+    }
 
     void OnTriggerEnter(Collider other)
     {
@@ -28,7 +28,6 @@ public class CardsController : MonoBehaviour {
     IEnumerator Example()
     {
         yield return new WaitForSeconds(8.0f);
-
         var bullet = (GameObject)Instantiate(
                 Character,
                 Character_SpawnPoint.position,
