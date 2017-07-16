@@ -5,7 +5,7 @@ crazy fight vr is a multiplayer online game using kinect and gearVR you will exp
 `Hardware` <br>
  1-XBOX kinect <br>
  2-GearVR <br>
-`Software` 
+`Software` <br>
 1- Unity game engine.<br>
 2- blender.<br>
 3- Kinect SDK v1.8.0 .<br>
@@ -31,7 +31,7 @@ feel free to grap your copy and make a pull request and we will merge your code 
 Any Pull Requests are Welcome
 
 ## Credits
-- <a href="https://github.com/aa-ahmed-aa">Ahmed khaled</a>
+- <a href="https://github.com/aa-ahmed-aa">Ahmed Khaled</a>
 - <a href="https://github.com/hagarabdelwaha">Hagar Abdelwahab</a>
 - <a href="https://github.com/Rewan95">Rewan Atef</a>
 - <a href="https://github.com/JehadMohsen">Gehad Mohsen</a>
